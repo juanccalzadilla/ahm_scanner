@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.example.ahm_scanner">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.honeywell.decode.permission.DECODE" />
+</manifest>
